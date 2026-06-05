@@ -3,7 +3,7 @@ import numpy as np
 import cvzone
 import pickle
 
-cap = cv2.VideoCapture('video1.mp4')
+cap = cv2.VideoCapture('video.mp4')
 
 drawing=False
 area_names=[]
